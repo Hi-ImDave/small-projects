@@ -10,7 +10,7 @@ Small project that utilizes vanilla JS, CSS and HTML to create cards that are ex
 **Preview:**
 
 <div align="center">
-  <img src="assets/expandingCards.mkv" alt="cards being expanded and collapsed" />  
+  <img src="assets/expandingCards.gif" alt="cards being expanded and collapsed" />  
 </div>
 
 ## Optimizations:
