@@ -22,7 +22,7 @@ All projects will use vanilla JavaScript, CSS and HTML.
       <img src="./expandingCards/assets/expandingCards.gif" width="100%" alt="Expanding Cards Presentation"/>
       <br />
       <p align="center">
-        <a href="https://github.com/Hi-ImDave/small-projects/expandingCards" target="_blank">
+        <a href="https://github.com/Hi-ImDave/small-projects/tree/main/expandingCards" target="_blank">
           <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
         </a>
       </p>
@@ -36,7 +36,7 @@ All projects will use vanilla JavaScript, CSS and HTML.
       <img src="./rotatingNavigation/assets/rotatingNav.gif" width="100%"  alt="Rotating Navigation Presentation"/>  
       <br />   
       <p align='center'>    
-        <a href="https://github.com/Hi-ImDave/small-projects/rotatingNavigation" target="_blank">
+        <a href="https://github.com/Hi-ImDave/small-projects/tree/main/rotatingNavigation" target="_blank">
           <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
         </a>
       </p>       
