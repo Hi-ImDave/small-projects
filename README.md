@@ -42,6 +42,8 @@ All projects will use vanilla JavaScript, CSS and HTML.
         </a>
       </p>       
     </td>
+  </tr>
+  <tr>
     <!-- Third Preview -->
     <td width="50%" valign="top">
       <h3 align="center">
