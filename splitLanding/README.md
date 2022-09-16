@@ -7,6 +7,7 @@ This is an example of a split landing page. Could be used to direct visitors to 
 Mostly done with CSS, minimal JS for hover events.
 **Tech used:**
 HTML, CSS, JavaScript
+
 **Preview:**
 
 <div align="center">
