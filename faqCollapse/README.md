@@ -9,7 +9,7 @@ HTML, CSS, JavaScript
 **Preview:**
 
 <div align="center">
-  <img src="" alt="" />  
+  <img src="./assets/faqCollapse.gif" alt="" />  
 </div>
 
 ## Optimizations:
